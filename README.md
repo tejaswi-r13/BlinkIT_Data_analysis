@@ -27,7 +27,7 @@ The SQL queries used for cleaning, transforming, and analyzing data are availabl
 
 ## 📑 SQL Queries 
 
-The detailed explanation for the sql is [Here](Data_Analysis/SQL_Query/Sql_script.txt)
+The detailed explanation for the sql is [Here](Data_Analysis/Sql_script.txt)
 
 ---
 
@@ -53,6 +53,6 @@ Enhancing dashboard with more drill-through analysis
 
 📧 Email: tejaswi.r.2021.cce@ritchennai.edu.in
 
-🔗 LinkedIn:
+🔗 LinkedIn: [Tejaswi](https://www.linkedin.com/in/tejaswi-r-115465284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
  | GitHub
