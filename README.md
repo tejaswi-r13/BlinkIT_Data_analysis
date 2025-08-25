@@ -27,7 +27,7 @@ The SQL queries used for cleaning, transforming, and analyzing data are availabl
 
 ## 📑 SQL Queries 
 
-The detailed explanation for the sql is [Here](Data_Analysis/Sql_script.txt)
+The detailed explanation for the sql is [Here](Data_Analysis/Sql_query_script.sql)
 
 ---
 
